@@ -9,13 +9,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "now": {
-    "alias": "copa-fetcher"
-  },
-  "dependencies": {
-    "micro": "^9.3.2",
-    "request": "^2.87.0",
-    "websocket": "^1.0.26"
-  }
+  "license": "ISC"
 }
